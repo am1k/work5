@@ -1,0 +1,248 @@
+@import "reset.css";
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+#wrapper {
+    width: 1400px;
+    height: 1778px;
+    background-color: #ffffff;
+    margin: 0 auto;
+}
+a:link {
+    color: #ffffff;
+    text-decoration: none;
+}
+a:visited{
+    color: #ffffff;
+}
+#header {
+    float: left;
+}
+.head {
+    background-image: url("img/header-bg.png");
+    width: 1400px;
+    height: 455px;
+    float: left;
+
+}
+.head-menu {
+    background-image: url("img/bg-menu.png");
+    width: 1400px;
+    height: 72px;
+
+}
+.logo {
+    width: 193px;
+    height: 115px;
+    margin-left: 217px;
+    margin-top: -44px;
+    float: left;
+}
+.menu {
+    float: right;
+    margin: 28px 223px 0 0;
+}
+.head-menu ul.nav {
+    width: 500px;
+
+}
+.head-menu ul.nav li {
+    float: left;
+    margin: 0 25px 0 0;
+
+}
+.head-menu ul.nav li a:hover {
+    padding-bottom: 20px;
+    border-bottom: 3px solid #676a6c;
+}
+.head-content {
+    width: 774px;
+    height: 89px;
+    margin: 45px 0 0 322px;
+    float: left;
+}
+.head-slider {
+    float: left;
+    margin: -280px 0 0 220px;
+}
+.slider {
+    float: left;
+    width: 950px;
+    margin: 45px 0 0 230px;
+}
+.bx-wrapper {
+    width: 960px;
+    float: left;
+}
+.content-top {
+    float: left;
+}
+.statement-1 {
+    width: 210px;
+    height: 260px;
+    float: left;
+    font-size: 12px;
+    margin-right: 30px;
+}
+.statement-head {
+    width: 193px;
+    height: 42px;
+    padding-bottom: 10px;
+}
+.statement-content-bottom {
+    padding-top: 10px;
+    float: left;
+}
+.statement {
+    margin: 125px 0 0 220px;
+
+}
+.content-middle {
+    float: left;
+    background-image: url("img/bg-content-middle.png");
+    width: 1400px;
+    height: 134px;
+    margin-top: 65px;
+}
+.content-text-middle {
+    width: 630px;
+    height: 63px;
+    margin: 20px 0 0 230px ;
+    float: left;
+}
+.button-content-middle {
+    width: 173px;
+    height: 54px;
+    margin: 23px 230px 0 0;
+    float: right;
+}
+.content-slider {
+    float: left;
+    margin: 90px 0 0 250px;
+}
+.content-slider-shadow {
+    background-image: url("img/bg-slider-contetn-bot.png");
+    width: 1072px;
+    height: 250px;
+    float: left;
+    margin: -250px 0 0 135px;
+}
+.social-icons ul.icons {
+    width: 305px;
+}
+.social-icons ul.icons li {
+    float: left;
+    margin: 0 15px 0 0;
+}
+.social-icons {
+    float: left;
+    margin: 35px 0 0 535px;
+}
+.content {
+    background-image: url("img/bg-content.png");
+    width: 1400px;
+    height: 1000px;
+    float: left;
+}
+#footer {
+    background-image: url("img/bg-footer.png");
+    height: 332px;
+    width: 1400px;
+    float: left;
+    margin-top: -80px;
+}
+#searchbox-name {
+    border: 1px solid #687173;
+    border-radius: 5px;
+    float: left;
+    width: 220px;
+    height: 23px;
+    padding-left: 3px;
+    margin: 5px 0 5px 0;
+    background-color: #384346;
+    color: #a5bcc1;
+}
+#searchbox-email {
+    border: 1px solid #687173;
+    border-radius: 5px;
+    float: left;
+    width: 220px;
+    height: 23px;
+    padding-left: 3px;
+    margin-bottom: 5px;
+    background-color: #384346;
+    color: #a5bcc1;
+}
+.contact {
+    float: left;
+    width: 220px;
+    height: 170px;
+    margin: 120px 0 0 330px;
+}
+#searchbox-comments {
+    border: 1px solid #687173;
+    border-radius: 5px;
+    float: left;
+    width: 140px;
+    padding-bottom: 83px;
+    padding-left: 3px;
+    background-color: #384346;
+    color: #a5bcc1;
+}
+.quick {
+    color: #ffffff;
+    font-size: 16px;
+
+}
+.contact-button {
+    float: right;
+    width: 71px;
+    height: 33px;
+    margin-top: 75px;
+}
+.touch {
+    width: 160px;
+    height: 170px;
+    float: left;
+    margin: 120px 0 0 90px;
+}
+.phone {
+    margin-top: 20px ;
+}
+.mail {
+    margin-top: 30px ;
+}
+.skype {
+    margin-top: 30px ;
+}
+.get-touch {
+    padding-left: 10px;
+    color: #ffffff;
+    font-size: 14px;
+}
+.connect {
+    width: 240px;
+    height: 210px;
+    float: left;
+    margin: 120px 0 0 30px;
+}
+.stay-connected {
+    padding-left: 5px;
+    color: #ffffff;
+    font-size: 12px;
+}
+.tweet1{
+    margin-top: 20px;
+}
+.facebook1{
+    margin-top: 20px;
+}
+.mail1 {
+    margin-top: 20px;
+}
+.rss1 {
+    margin-top: 20px;
+}
